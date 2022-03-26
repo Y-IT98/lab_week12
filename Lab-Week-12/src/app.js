@@ -45,8 +45,13 @@ function scholarship(students){
 }
 scholarship(students)
 
+//
 
-
+function dark_theme(){
+    const div = document.querySelector("div")
+    div.classList.replace("light-theme","dark-theme")    
+}
+dark_theme()
   
   
   

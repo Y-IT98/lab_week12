@@ -1,15 +1,15 @@
 :root {
   --off-white: #f2eae3;
-  --not-black: #2A363B;
+  --not-black: #2a363b;
   --dark-blue: #355c7d;
-  --light-red: #FF847C;
+  --light-red: #ff847c;
 }
 
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: 'Major Mono Display', monospace;
+  font-family: "Major Mono Display", monospace;
 }
 
 .light-theme {
@@ -70,11 +70,10 @@ main {
   flex: 1;
 }
 
-#main ol{
+#main ol {
   padding-left: 2.2rem;
 }
 
 footer {
   height: 50px;
 }
-
